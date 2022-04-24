@@ -15,11 +15,9 @@ public class WarmUp {
 
          }
 
-
-
         System.out.println("\n--------push up finished-----------");
 
         //Do 30 push-ups and try pausing 1.5 seconds in each
 
-    }
+    }  
 }

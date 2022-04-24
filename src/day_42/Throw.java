@@ -17,6 +17,7 @@ public class Throw {
             throw new RuntimeException( "Age cannot be less than 20: " + age);
 
         }
+
     }
 
 }
